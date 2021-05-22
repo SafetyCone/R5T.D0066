@@ -1,0 +1,4 @@
+R5T.D0066.Base - Base service definitions library for ICurrentDirectoryPathProvider service.
+
+Goals
+
